@@ -1,5 +1,14 @@
 # nginx-production-ready
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Configure Nginx as Web Server](#configure-nginx-as-web-server)
+- [Configure Nginx as Reverse Proxy](#configure-nginx-as-reverse-proxy)
+- [Configure Nginx as Load Balancer](#configure-nginx-as-load-balancer)
+
 ## Prerequisites
 
 - AlmaLinux or RHEL 9.x
@@ -47,3 +56,9 @@ cd nginx-production-ready
 chmod +x scripts/nginx-setup.sh
 ./scripts/nginx-setup.sh
 ```
+
+## Configure Nginx as Web Server
+
+## Configure Nginx as Reverse Proxy
+
+## Configure Nginx as Load Balancer
